@@ -1,6 +1,7 @@
 # datafun-07-applied
-
-# Create a new project in Github
+By: Deb St. Cyr
+2/17/24
+# A new project to demonstrate skills learned
 - Make a new file (add README.md to file!)
 - Clone down the file to machine
 - Activate the environment
