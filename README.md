@@ -29,6 +29,7 @@ By: Deb St. Cyr
 # Add to .gitignore
   - .venv/
   - .vscode/
+  - *~
   - .ipynb_checkpoints/
   - *.ipynb_meta/
 
