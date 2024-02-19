@@ -34,7 +34,5 @@ By: Deb St. Cyr
   - *.ipynb_meta/
 
 
-# Document process and commands in README.md.
-  - Git add and commit the changes made on your machine.
-  - Git push your changes to GitHub.
+
 
