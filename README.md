@@ -33,6 +33,11 @@ By: Deb St. Cyr
   - .ipynb_checkpoints/
   - *.ipynb_meta/
 
+# If working in Github 
+- git pull (to bring new changes into VS code)
 
+# If working in VS code
+  - git add
+  - git push to your repo
 
 
